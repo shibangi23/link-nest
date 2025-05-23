@@ -1,5 +1,5 @@
 ## Link Nest
-Link Nest is a responsive React application featuring a theme toggle switch that allows users to seamlessly switch between light and dark modes. Each theme displays a distinct background image, enhancing the visual experience.
+Link Nest is a minimalist Linktree clone built with React. It allows users to showcase multiple links on a single personalized page. The app supports light/dark themes with smooth transitions and custom backgrounds.
 
 ## Images:
 Modes with icon on right to toggle theme:
@@ -8,13 +8,9 @@ Modes with icon on right to toggle theme:
 
 ## Features
 🌞 Light Mode: Displays a bright, cheerful background.
-
 🌙 Dark Mode: Showcases a night-themed background.
-
 🎨 Theme Persistence: Remembers the user's theme preference using localStorage.
-
 ⚡ Smooth Transitions: Provides seamless transitions between themes.
-
 🖱️ Interactive Toggle: Utilizes react-icons for an intuitive toggle button.
 
 ## Installation
