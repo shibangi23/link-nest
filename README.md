@@ -1,6 +1,11 @@
 ## Link Nest
 Link Nest is a responsive React application featuring a theme toggle switch that allows users to seamlessly switch between light and dark modes. Each theme displays a distinct background image, enhancing the visual experience.
 
+## Images:
+Modes with icon on right to toggle theme:
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/730c7d44-0e51-4441-b9b8-421a3e0b8f73" />
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/a409787a-58bf-46c3-88d2-acee8e02ebd8" />
+
 ## Features
 🌞 Light Mode: Displays a bright, cheerful background.
 
