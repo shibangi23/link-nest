@@ -13,7 +13,7 @@ const ThemeToggle = () => {
     if (theme === 'light') {
             body.style.backgroundImage = "url('/images/light-bg.jpg')";
 
-      root.style.setProperty('--bg-color', '#e7b4b4');
+      root.style.setProperty('--bg-color', 'white');
       root.style.setProperty('--text-color', '#222222');
       root.style.setProperty('--link-bg', '#4a90e2');
       root.style.setProperty('--link-hover-bg', '#357ABD');

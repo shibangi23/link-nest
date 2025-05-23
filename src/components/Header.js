@@ -7,7 +7,7 @@ const Header = () => {
     <div className="header">
       <img src={profilePic} alt="Profile" className="profile-pic" />
       <h2 className="name">Shibangi Lodh</h2>
-      <p className="bio">A passionate developer.</p>
+      <p className="bio">Hi! Let's get in touch.</p>
     </div>
   );
 };
