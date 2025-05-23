@@ -1,0 +1,21 @@
+.link-button {
+  display: block;
+  width: 90%;
+  max-width: 400px;
+  background-color: #7b466a;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+    width: 300px;
+  margin: 0.7rem 0;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.link-button:hover {
+  background-color: #333;
+}
+
+
