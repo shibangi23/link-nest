@@ -1,19 +1,27 @@
-# 🌗 React Theme Toggle with Background Images
+## Link Nest
+Link Nest is a responsive React application featuring a theme toggle switch that allows users to seamlessly switch between light and dark modes. Each theme displays a distinct background image, enhancing the visual experience.
 
-A simple and elegant theme toggle switch built using React. This project allows users to toggle between **light** and **dark** themes, each displaying a **custom background image**.
+## Features
+🌞 Light Mode: Displays a bright, cheerful background.
 
----
+🌙 Dark Mode: Showcases a night-themed background.
 
-## ✨ Features
+🎨 Theme Persistence: Remembers the user's theme preference using localStorage.
 
-- 🌞 Light mode with a bright, cheerful background
-- 🌙 Dark mode with a night-themed background
-- Smooth transitions between themes
-- Theme persistence using `localStorage`
-- Styled with CSS custom properties for easy customization
-- Uses `react-icons` for toggle button
+⚡ Smooth Transitions: Provides seamless transitions between themes.
 
----
+🖱️ Interactive Toggle: Utilizes react-icons for an intuitive toggle button.
 
-## 📁 Project Structure
+## Installation
+Clone the repository:
+git clone https://github.com/shibangi23/link-nest.git
+cd link-nest
+
+
+## Install dependencies:
+npm install
+
+## Start the development server:
+npm start
+The application will run at http://localhost:3000.
 
